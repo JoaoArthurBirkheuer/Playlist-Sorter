@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+lib/
+include/
+bin/
+share/
+local/
+.venv/
+
+*.env
+.env*
+.DS_Store
+.vscode/
+
+.spotify_token_cache.json
+*.json.spotify_cache # Outros formatos de cache Spotipy se houver
+
+*.log
